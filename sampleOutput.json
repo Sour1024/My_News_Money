@@ -1,0 +1,56 @@
+{
+  "status": "ok",
+  "totalResults": 5,
+  "articles": [
+    {
+      "source": { "id": "bbc-sport", "name": "BBC Sport" },
+      "author": null,
+      "title": "Shaheen picks up big wicket of Mahmudullah for 56",
+      "description": "Watch as Shaheen Afridi picks up the big wicket of Mahmudullah for 56 as Pakistan claim their fifth wicket against Bangladesh during their Cricket World Cup game in Kolkata.",
+      "url": "http://www.bbc.co.uk/sport/av/cricket/67271752",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/15533/production/_131574378_p0gpv3db.jpg",
+      "publishedAt": "2023-10-31T11:07:21.9517234Z",
+      "content": "Watch as Shaheen Afridi picks up the big wicket of Mahmudullah for 56 as Pakistan claim their fifth wicket against Bangladesh during their Cricket World Cup game in Kolkata. \r\nFOLLOW: Pakistan v Bang… [+82 chars]"
+    },
+    {
+      "source": { "id": "bbc-sport", "name": "BBC Sport" },
+      "author": null,
+      "title": "World Cup: Bangladesh bat first against Pakistan in crucial game",
+      "description": "Follow live text, in-play video clips and radio commentary as Pakistan play Bangladesh in the Men's Cricket World Cup 2023.",
+      "url": "http://www.bbc.co.uk/sport/live/cricket/66858758",
+      "urlToImage": "https:////m.files.bbci.co.uk/modules/bbc-morph-sport-seo-meta/1.23.3/images/bbc-sport-logo.png",
+      "publishedAt": "2023-10-31T08:37:22.7331343Z",
+      "content": "Bangladesh: Litton Das (wicketkeeper), Tanzid Hasan, Najmul Shanto, Shakib Al Hasan (captain), Mushfiqur Rahim, Mahmudulla, Towhid Hridoy, Mehidy Hasan Miraz, Taskin Ahmed, Mustafizur Rahman, Shorifu… [+203 chars]"
+    },
+    {
+      "source": { "id": "al-jazeera-english", "name": "Al Jazeera English" },
+      "author": "Al Jazeera Staff",
+      "title": "Which teams can qualify for the ICC Cricket World Cup semifinals?",
+      "description": "India and South Africa are likely to qualify for the semifinals but at least five other teams are also in with a chance.",
+      "url": "http://www.aljazeera.com/sports/2023/10/30/icc-cricket-world-cup-2023-semifinal-qualification-permutations",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/10/2023-10-26T130519Z_260527354_UP1EJAQ10CT5J_RTRMADP_3_CRICKET-WORLDCUP-ENG-LKA2-1698652585.jpg?resize=1920%2C1200",
+      "publishedAt": "2023-10-30T16:46:16Z",
+      "content": "India are on the cusp of becoming the first team to secure a place in the semifinals of the ICC Cricket World Cup 2023 following their 100-run win over England.\r\nBut how do the rest of the teams stac… [+7424 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+      "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+      "publishedAt": "2020-04-27T11:41:47Z",
+      "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+      "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+      "publishedAt": "2020-03-30T15:26:05Z",
+      "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+    }
+  ]
+}
